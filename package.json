@@ -1,0 +1,23 @@
+{
+  "name": "onix-opcodes",
+  "version": "1.0.0",
+  "description": "ONIX opcodes",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onixcoin-io/onix-opcodes-js.git"
+  },
+  "keywords": [
+    "onix",
+    "opcodes"
+  ],
+  "author": "Onix dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onixcoin-io/onix-opcodes-js/issues"
+  },
+  "homepage": "https://github.com/onixcoin-io/onix-opcodes-js#readme"
+}
